@@ -1,4 +1,4 @@
-# healthkit-to-sqlite
+# healthkit-to-sqlite 운동 데이터
 
 [![PyPI](https://img.shields.io/pypi/v/healthkit-to-sqlite.svg)](https://pypi.org/project/healthkit-to-sqlite/)
 [![Changelog](https://img.shields.io/github/v/release/dogsheep/healthkit-to-sqlite?include_prereleases&label=changelog)](https://github.com/dogsheep/healthkit-to-sqlite/releases)
